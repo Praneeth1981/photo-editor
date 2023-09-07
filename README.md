@@ -3,7 +3,8 @@ Enhance, adjust contrast, brightness, and saturation, and rotate images with eas
 
 ## Requirements
 
-To run this code, you need to have PIL installed
+To run this code, you need to have PIL installed.
+
 Try any one of these commands in the terminal:
 - 'pip install pillow'
 - 'python3 -m pip install --upgrade Pillow'
